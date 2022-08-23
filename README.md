@@ -1,4 +1,4 @@
--<h1 align="center">Hi 👋, I'm Shyllon Olayinka</h1>
+<h1 align="center">Hi 👋, I'm Shyllon Olayinka</h1>
 <h3 align="center">I am a goal-oriented frontend developer with strong commitment to collaboration and solutions oriented problem solving. I am committed to high web design, user experience, usability, and speed for a diverse range of end users. I am also a dynamic communicator who consistently outperforms employer goals and expectations.</h3>
 
 - 🔭 I’m currently working on **Crownade casuals**
